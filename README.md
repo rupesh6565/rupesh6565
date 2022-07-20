@@ -31,6 +31,6 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GuptaEesh&show_icons=true&&theme=slateorange&hide=issues&count_private=true" alt="EeshGupta" /></p>
+<!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GuptaEesh&show_icons=true&&theme=slateorange&hide=issues&count_private=true" alt="EeshGupta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GuptaEesh" alt="Rupesh Sharma" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GuptaEesh" alt="Rupesh Sharma" /></p>-->
